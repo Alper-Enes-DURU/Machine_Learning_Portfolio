@@ -7,4 +7,4 @@ This repository contains a collection of machine learning assignments and projec
 Open this [document](Overview_of_ML.pdf) to learn more about Machine Learning.
 
 ## C++ Data Exploration
-Review the simple example of analyzing the given data [here](C++DataExploration)
+Review the simple example of analyzing the given data [here](C++%20Data%20Exploration/Cpp_Data_Exploration_Overview.pdf)
