@@ -10,3 +10,9 @@ Open this [document](Overview_of_ML.pdf) to learn more about Machine Learning.
 Review the simple example of analyzing the given data [document](C++%20Data%20Exploration/Cpp_Data_Exploration_Overview.pdf)
 
 And review the [program](C++%20Data%20Exploration/main.cpp)
+
+
+## Linear Models
+This data analysis is on earthquake data for the last 123 years. 
+[regression_analysis](Linear%20Modules/Regression.pdf)
+[classification_analysis](Linear%20Modules/Classification.pdf)
