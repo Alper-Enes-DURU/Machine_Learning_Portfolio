@@ -14,5 +14,5 @@ And review the [program](C++%20Data%20Exploration/main.cpp)
 
 ## Linear Models
 This data analysis is on earthquake data for the last 123 years. 
-[regression_analysis](Linear%20Modules/Regression.pdf)
-[classification_analysis](Linear%20Modules/Classification.pdf)
+[regression_analysis](Linear%20Models/Regression.pdf)
+[classification_analysis](Linear%20Models/Classification.pdf)
