@@ -18,3 +18,10 @@ This data analysis is on earthquake data for the last 123 years.
 Analysis of [regression](Linear%20Models/Regression.pdf)
 
 Analysis of [classification](Linear%20Models/Classification.pdf)
+
+
+## C++ Algorithms from Scratch
+
+Logictic regression [code](C++%20Algorithms%20from%20Scratch/logisticRegression.cpp)
+
+Naive Bayes [code](C++%20Algorithms%20from%20Scratch/naiveBayes.cpp)
