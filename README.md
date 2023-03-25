@@ -25,3 +25,8 @@ Analysis of [classification](Linear%20Models/Classification.pdf)
 Logictic regression [code](C++%20Algorithms%20from%20Scratch/logisticRegression.cpp)
 
 Naive Bayes [code](C++%20Algorithms%20from%20Scratch/naiveBayes.cpp)
+
+
+## Searching For Similarity
+
+[Notebook 1](Searching%20For%20Similarity/WalmartData.pdf)
