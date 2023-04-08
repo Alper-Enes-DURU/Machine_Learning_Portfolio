@@ -30,3 +30,7 @@ Naive Bayes [code](C++%20Algorithms%20from%20Scratch/naiveBayes.cpp)
 ## Searching For Similarity
 
 [Notebook 1](Searching%20For%20Similarity/WalmartData.pdf)
+
+## Python Machine Learning
+
+[Sklearn](Python%20ML%20with%20sklearn/Ml_with_sklearn.ipynb%20-%20Colaboratory.pdf)
