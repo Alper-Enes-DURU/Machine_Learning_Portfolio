@@ -1,9 +1,8 @@
-<div align="center">
+<p align="center">
   
-![example1](assets/1936.gif) 
+<img height="400" width="500" src="https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif">
   
-</div>
-
+</p>
 
 # About ME 💬 :
 
