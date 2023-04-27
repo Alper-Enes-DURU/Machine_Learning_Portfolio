@@ -1,6 +1,6 @@
 <div align="center">
   
-![example1](assets/1936.gif)
+![example1](assets/1936.gif) 
   
 </div>
 
