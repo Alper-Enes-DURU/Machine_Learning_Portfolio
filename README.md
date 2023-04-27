@@ -1,8 +1,14 @@
+<div align="center">
+
+![](https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif)
+
+</div>
+
 # About ME 💬 :
 
 ### - Alper Duru, Student at the University of Texas at Dallas
 
-<img height="400" width="500" align="right" src="https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif">
+<!-- <img height="400" width="500" align="right" src="https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif"> -->
  
 ### - Technical Skills :
 - ✨ <b>Programming:</b> proficiency in programming languages such as Python, R, C++.
