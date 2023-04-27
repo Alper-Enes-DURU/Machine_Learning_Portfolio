@@ -1,11 +1,8 @@
-
-
+<div align="center">
+  
 ![example1](assets/1936.gif)
- 
- ![example2](main/assets/1936.gif)
- 
- ![example3](https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif)
-
+  
+</div>
 
 
 # About ME 💬 :
