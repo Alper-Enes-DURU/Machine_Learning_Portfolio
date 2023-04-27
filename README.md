@@ -154,4 +154,9 @@ Objectives:
 </div>
 <br/>
 
+## Acknowledgments
+
+I would like to express my gratitude to <b>Dr. Karen Mazidi</b>, who provided valuable guidance and feedback throughout the project. Her expertise in Machine Learning was instrumental in shaping the direction of the project and helping me overcome challenges. I am also grateful for the resources and materials that she suggested, which were critical in completing the project. You can learn more about <b>Dr. Karen Mazidi</b> and her research by visiting her [profile](https://github.com/kjmazidi).
+
+
 </div>
