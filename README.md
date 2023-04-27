@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif)
+![example](https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif)
 
 </div>
 
