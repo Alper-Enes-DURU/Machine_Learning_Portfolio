@@ -2,16 +2,15 @@
 
 ### - Alper Duru, Student at the University of Texas at Dallas
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif">
-
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Alper-Enes-DURU/Alper-Enes-DURU/blob/main/assets/1936.gif">
+ 
 ### - Technical Skills :
 - ✨ <b>Programming:</b> proficiency in programming languages such as Python, R, C++.
 - ✨ <b>Data handling and manipulation:</b> ability to handle and manipulate small, medium, large datasets.
 - ✨ <b>Statistics and mathematics:</b> knowledge of statistical analysis and mathematical concepts such as linear algebra and calculus.
 - ✨ <b>Machine Learning algorithms:</b> knowledge of various machine learning algorithms such as supervised learning, unsupervised learning, reinforcement learning, deep learning, etc.
 - ✨ <b>Data visualization:</b> ability to visualize data and communicate insights through graphs, charts, and other visualizations.
-
-
+  
 ### - Soft Skills : 
 - ✨ <b>Problem-solving:</b> ability to analyze problems and find solutions through machine learning models.
 - ✨ <b>Communication:</b> ability to explain complex concepts in a clear and concise manner to both technical and non-technical stakeholders.
